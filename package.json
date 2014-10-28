@@ -1,6 +1,6 @@
 {
   "name": "fbreactor",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Generator for React",
   "bin": {
     "fbreactor": "index.js"
