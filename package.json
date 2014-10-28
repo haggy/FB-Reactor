@@ -1,14 +1,14 @@
 {
-  "name": "react-or",
+  "name": "fbreactor",
   "version": "0.0.0",
-  "description": "Component generator for React",
+  "description": "Generator for React",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "react",
-    "react-or",
+    "fbreactor",
     "Facebook",
     "React"
   ],
