@@ -16,6 +16,8 @@
   "license": "MIT",
   "dependencies": {
     "minimist": "1.1.x",
-    "fs2": "0.2.x"
+    "fs2": "0.2.x",
+    "q": "1.0.x",
+    "colors": "1.0.x"
   }
 }
