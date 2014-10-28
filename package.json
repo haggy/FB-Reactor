@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Generator for React",
   "bin": {
-    "fbreactor": "bin/index.js"
+    "fbreactor": "index.js"
   },
   "main": "index.js",
   "scripts": {

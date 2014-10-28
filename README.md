@@ -7,6 +7,10 @@ Good old npm:
 
 `npm install fbreactor`
 
+or install globally
+
+`npm install -g fbreactor`
+
 ## CLI Usage:
 
 ### Create new reactorfile
