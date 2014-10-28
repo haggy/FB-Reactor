@@ -49,7 +49,7 @@ This will create a new Component, Store, Action, and Lib for your component call
     * __/components__
         * my_thing.jsx
     * __/stores__
-        * my_thing.jsx
+        * my_thing.js
     * __/actions__
         * my_thing.js
     * __/libs__
