@@ -1,0 +1,21 @@
+{
+  "name": "react-or",
+  "version": "0.0.0",
+  "description": "Component generator for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-or",
+    "Facebook",
+    "React"
+  ],
+  "author": "Dave Hagman",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "1.1.x",
+    "fs2": "0.2.x"
+  }
+}
