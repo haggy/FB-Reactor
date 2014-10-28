@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var argv = require('minimist')(process.argv.slice(2));
 var Factory = require(__dirname + '/lib/component-factory');
 var colors = require('colors');

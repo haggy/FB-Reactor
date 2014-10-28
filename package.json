@@ -2,6 +2,9 @@
   "name": "fbreactor",
   "version": "0.0.0",
   "description": "Generator for React",
+  "bin": {
+    "fbreactor": "bin/index.js"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
