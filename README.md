@@ -5,10 +5,6 @@ React project structure with stubbed out component files.
 ## Install
 Good old npm:
 
-`npm install fbreactor`
-
-or install globally
-
 `npm install -g fbreactor`
 
 ## CLI Usage:
